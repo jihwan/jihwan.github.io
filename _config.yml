@@ -1,5 +1,5 @@
 title:            인생은 아름답고, 배움은 즐겁다~
-description:      :)
+description:      zhwan's dev blog :)
 
 # put your disqus here
 disqus_shortname: zhwan
@@ -39,6 +39,7 @@ owner:
   twitter:  # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: jihwan
+  facebook: JiHhwan.Hwang
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -48,6 +49,8 @@ twitter:
 social:
   - title: "github"
     url: "https://github.com/jihwan"
+  - title: "facebook"
+    url: "https://www.facebook.com/JiHhwan.Hwang"
   # - title: "linkedin"
   #   url: "https://br.linkedin.com/in/aronbordin"
   # - title: "youtube"
