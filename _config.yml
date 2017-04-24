@@ -31,9 +31,9 @@ menu:
 # Owner/author information
 owner:
   name:           황지환, Jihwan Hwang
-  site:           http://zhwan.info
+  site:           http://zhwan.info/about
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Enjoy life to the full~ :)"
   email:          zhwan.hwang@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter:  # if no twitter in this config, the twitter follow button will be removed
