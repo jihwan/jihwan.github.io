@@ -470,6 +470,7 @@ ul.social-buttons li a:active {
 	height: 100%;
 	overflow: hidden;
 	height: 50px;
+	background-image: url(/images/feature.jpg);
 	@media #{$medium} {
 		background-color: $header-color;
 		min-height: 300px;
