@@ -470,7 +470,8 @@ ul.social-buttons li a:active {
 	height: 100%;
 	overflow: hidden;
 	height: 50px;
-	background-image: url(/images/feature.jpg);
+	background-image: url(/images/Cosmos03.jpg);
+	background-repeat: no-repeat;
 	background-size: 100%;
 	@media #{$medium} {
 		background-color: $header-color;
